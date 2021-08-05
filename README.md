@@ -5,7 +5,7 @@ https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoe
 
 ## 使い方
 - 拡張機能をChromeに追加すると、ブックマークバーのアプリのページに登録されます。
--- 1.アプリを起動します
--- 2.「CHOOSE FOLDER」をクリックし、Unityのビルドで出力したフォルダを選択します
--- 3.http://127.0.0.1:8887 のリンクをクリックします
+ - 1.アプリを起動します
+ - 2.「CHOOSE FOLDER」をクリックし、Unityのビルドで出力したフォルダを選択します
+ - 3.http://127.0.0.1:8887 のリンクをクリックします
 - これだけで WebGL のページが開けます
