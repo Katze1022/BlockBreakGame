@@ -1,6 +1,7 @@
 # BlockBreakGame
 ## ローカルでの実行方法(https://yotiky.hatenablog.com/entry/2020/7/22/webserverforchrome)
-- フォルダ「BlockBreakGame」ごとダウンロードして任意の場所にローカル保存してください
+- フォルダ「BlockBreakGame」ごとダウンロード後、任意の場所にローカル保存してください
+- フォルダ「StandAloneFile」（Unity.exe Fileのため）は、まるごと外に出してください
 - Chromeの拡張機能「Web Server for Chrome」を使うとフォルダ指定するだけで、簡単にサーバーが起動できます
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/reviews
 
