@@ -1,4 +1,6 @@
 # BlockBreakGame
+シンプルなブロック崩しです<br>
+最初は遅いですが、当たり方や時間経過でボールの反射が早くなります<br>
 ## ローカルでの実行方法(https://yotiky.hatenablog.com/entry/2020/7/22/webserverforchrome)
 - Chromeの拡張機能「Web Server for Chrome」を使うとフォルダ指定するだけで、簡単にサーバーが起動できます<br>
 - 拡張機能をChromeに追加すると、ブックマークバーのアプリのページに登録されます<br>
